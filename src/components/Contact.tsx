@@ -40,8 +40,8 @@ export const Contact = () => {
         {
             icon: <Mail className="w-5 h-5 sm:w-6 sm:h-6 text-accent" />,
             title: "Email",
-            value: "bonjour.mary72@gmail.com",
-            link: "mailto:bonjour.mary72@gmail.com"
+            value: "nyaguthiimary.mn@gmail.com",
+            link: "mailto:nyaguthiimary.mn@gmail.com"
         },
         {
             icon: <MapPin className="w-5 h-5 sm:w-6 sm:h-6 text-accent" />,
@@ -96,7 +96,7 @@ export const Contact = () => {
                         <h4 className="text-xs font-semibold text-text-light mb-3">Social Profiles</h4>
                         <div className="flex gap-3">
                             <a
-                                href="#"
+                                href="http://www.linkedin.com/in/mary-njoroge-a485a33b1"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="w-11 h-11 rounded-full bg-primary flex items-center justify-center text-white hover:bg-accent hover:text-primary transition-all duration-300 hover:-translate-y-1"
