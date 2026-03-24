@@ -22,7 +22,7 @@ export const Services = () => {
         {
             icon: <Landmark className="w-7 h-7 sm:w-8 sm:h-8 text-accent" />,
             title: "Statutory Compliance",
-            description: "Ensuring your business adheres to all relevant tax laws and regulations, handling KRA, NSSF, NHIF and other statutory remittances."
+            description: "Ensuring your business adheres to all relevant tax laws and regulations, handling KRA, NSSF, SHIF and other statutory remittances."
         }
     ];
 
